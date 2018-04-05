@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My ApplicationTPISIC</string>
+    <string name="lastName">Nom : </string>
+    <string name="firstName">Prénom : </string>
+    <string name="cityName">Ville : </string>
+    <string name="birthDate">Date : </string>
+    <string name="champNumero">Numero : </string>
+    <string name="buttonValidate">Valider</string>
+    <string name="reset_action">Réinitialiser</string>
+    <string name="choixDate">MAJ</string>
+    <string name="defaultDate">1/01/1990</string>
+    <string name="infosVilles">Informations sur la ville</string>
+    <string name="numJour">Jour</string>
+    <string name="numMois">Mois</string>
+    <string name="numAnnee">Annee</string>
+    <string name="city_prompt">Choisisser une departement</string>
+    <string name="departementName">Departement : </string>
+    <string name="sharingInfos">Partager</string>
+
+    <string-array name="city_arrays">
+        <item>Abidjan</item>
+        <item>Yamoussokro</item>
+        <item>Paris</item>
+        <item>Brest</item>
+        <item>Plouzane</item>
+        <item>Milan</item>
+        <item>Sydney</item>
+        <item>Lyon</item>
+    </string-array>
+</resources>
